@@ -1,0 +1,84 @@
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.workplace{
+  padding: 20px;
+}
+.workplace-inner{
+  background-color: white;
+  padding: 10px;
+  border-radius: 10px;
+}
+.pl5{
+  padding-left: 30px;
+}
+.editplace{
+  
+  max-width: 500px;
+  margin: 10px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px; 
+}
+.conf button, .tmp{
+  margin-left: 10px;
+}
+.conf{
+  padding-right: 10px;
+}
+.sortlink{
+  
+  cursor: pointer;
+  
+}
+.sortlink:hover{
+  color: #0d6efd;
+}
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #e2eeff;
+}
+.clikcable-tr{
+  cursor: pointer;
+}
+.right{
+  align-items: right;
+}
+.dellink{
+  cursor: pointer;
+  color: #bbb;
+}
+.dellink:hover{
+  color: red;
+}

@@ -1,0 +1,52 @@
+{
+  "students": [
+    {
+      "surname": "Мартынов",
+      "name": "Виталий",
+      "patronymic": "Александрович",
+      "birthdate": "07-02-1997",
+      "Algebra": 4,
+      "Art": 5,
+      "Geography": 4,
+      "History": 5,
+      "English": 5,
+      "id": 1
+    },
+    {
+      "surname": "Игнатов",
+      "name": "Аполинарий",
+      "patronymic": "Эдмундович",
+      "birthdate": "11-04-1991",
+      "Algebra": 5,
+      "Art": 5,
+      "Geography": 5,
+      "History": 5,
+      "English": 5,
+      "id": 3
+    },
+    {
+      "surname": "Слабоухов",
+      "name": "Альберт",
+      "patronymic": "Ивпатьевич ",
+      "birthdate": "12-01-1982",
+      "Algebra": 2,
+      "Art": 3,
+      "Geography": 2,
+      "History": 5,
+      "English": 4,
+      "id": 4
+    },
+    {
+      "surname": "Горбунков",
+      "name": "Алексей",
+      "patronymic": "Акакьевич",
+      "birthdate": "18-05-1964",
+      "Algebra": 3,
+      "Art": 4,
+      "Geography": 2,
+      "History": 4,
+      "English": 4,
+      "id": 6
+    }
+  ]
+}
